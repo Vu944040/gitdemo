@@ -14,10 +14,15 @@ public class testngtutorial {
 	public void intro()
 	{
 		System.out.println("imran");
+		System.out.println("abida");
+		System.out.println("nazeer");
+		System.out.println("vazeer");
+		System.out.println("amrin");
 	}@Test
 	public void intro1()
 	{
 		System.out.println("imrn");
+		System.out.println("bablu");
 	}
 	@Test
 	public void intro2()
