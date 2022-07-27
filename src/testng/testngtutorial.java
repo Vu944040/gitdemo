@@ -14,5 +14,20 @@ public class testngtutorial {
 	public void intro()
 	{
 		System.out.println("imran");
+	}@Test
+	public void intro1()
+	{
+		System.out.println("imrn");
 	}
+	@Test
+	public void intro2()
+	{
+		System.out.println("immu");
+	}
+	@Test
+	public void intro3()
+	{
+		System.out.println("imra");
+	}
+	
 }
