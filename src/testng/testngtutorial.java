@@ -18,6 +18,7 @@ public class testngtutorial {
 		System.out.println("nazeer");
 		System.out.println("vazeer");
 		System.out.println("amrin");
+		
 	}@Test
 	public void intro1()
 	{
@@ -28,11 +29,13 @@ public class testngtutorial {
 	public void intro2()
 	{
 		System.out.println("immu");
+		System.out.println("bablu");
 	}
 	@Test
 	public void intro3()
 	{
 		System.out.println("imra");
+		System.out.println("bablu");
 	}
 	
 }
