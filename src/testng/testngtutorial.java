@@ -30,6 +30,9 @@ public class testngtutorial {
 	{
 		System.out.println("immu");
 		System.out.println("bablu");
+		System.out.println("babl");
+		System.out.println("ablu");
+		System.out.println("balu");
 	}
 	@Test
 	public void intro3()
